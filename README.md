@@ -61,7 +61,6 @@ Follow these steps to configure and deploy the Violation Tracker Scraper in GCP.
      --region=us-central1 \
      --root-password=Password123!
    ```
-   - Note: The instance IP is `34.41.100.236` (from setup).
 
 2. **Create a Database**:
    ```bash
